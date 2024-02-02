@@ -8,9 +8,12 @@
 gantt
 title 2024
 dateFormat YYYY-MM-DD
-section Benchmark
-    Completed task            :done,    des1, 2024-01-01, 1d
-    Active task               :active,  des2, 2024-03-09, 20d
+
+section CO-IP
+    Baseline interx            :active,  des1, 2024-01-01, 39d
+    Verify Complex             :active,  des2, 2024-01-01, 47d
+    SiMPP8                     :active,  des2, 2024-02-04, 42d
+
 
 
 section Other
