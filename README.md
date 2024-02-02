@@ -1,7 +1,10 @@
 
+## Stephany's Roadmap
 
+### Aims
+* aim 1
+* aim 2
 ```mermaid
-
 gantt
 title 2024
 dateFormat YYYY-MM-DD
